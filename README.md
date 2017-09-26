@@ -1,7 +1,9 @@
 Shell Shovel
 ============
 
-I put this together to demonstrate shell shoveling using netcat.
+I put this together to demonstrate shell shoveling using netcat. I admit,
+creating these shell scripts is a little silly, however, it is for
+demonstration.
 
 
 ## Running the demo

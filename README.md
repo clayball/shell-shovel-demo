@@ -50,3 +50,9 @@ You could also run the following instead.
 
 In practice something like this would be scripted and executed remotely.
 
+
+## More
+
+Here's a great write-up that includes a RCE PoC.
+
+    http://www.madirish.net/207
